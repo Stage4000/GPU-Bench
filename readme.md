@@ -50,13 +50,4 @@ python gpu_benchmark.py
 
 Larger matrix sizes increase stress on the GPU.
 
-More iterations give more precise average results.
-
-
-
-
-
----
-
-Let me know if you want additional tests (like memory bandwidth) added!
-
+More iterations give more precise averages.
